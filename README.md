@@ -13,7 +13,7 @@ This repository contains the code for my personal portfolio website, built using
 - [Animations](#animations)
 - [Contact](#contact)
 - [Contributing](#contributing)
-- [License](#license) (Optional)
+- [License](#license) 
 
 ## Introduction
 
