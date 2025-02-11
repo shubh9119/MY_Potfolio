@@ -63,7 +63,7 @@ portfolio/
 
 ## How to Run Locally
 
-1. Clone the repository: `git clone https://github.com/[your-username]/[your-repo-name].git`
+1. Clone the repository: `git clone (https://github.com/shubh9119/MY_Potfolio.git)
 2. Open the `index.html` file in your web browser.
 
 ## Responsive Design
